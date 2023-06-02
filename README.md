@@ -6,9 +6,8 @@ Farmery is an e-commerce application aimed at supporting and empowering farmers 
 
 
 
+![image](https://github.com/jainapoorva40/farmery/assets/80565044/5e8801ea-103b-4723-81e1-b24b12f48ea2)
 
 
 
-
-![image](https://github.com/jainapoorva40/farmery/assets/80565044/b2c2fcff-48ba-4035-8e79-5e2dddb783c2)
 
